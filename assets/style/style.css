@@ -277,7 +277,7 @@ body{
   }
   @media (max-width:700px){
     .new-arrivals-cards{
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr ;
     }
     .new-arrivals-cards .new-arrival-card{
         width: 100%;
