@@ -318,6 +318,7 @@ body{
 
   .review .review-cards .review-card .review-section{
     color: var(--main-color);
+    margin-left: 10px;
   }
   .review .review-cards .review-card #quote{
     float: right;
@@ -329,7 +330,7 @@ body{
   }
   @media (max-width:700px){
     .review .review-cards{
-        grid-template-columns: 1fr 1fr ;
+        grid-template-columns: 1fr  ;
     }
   }
 
